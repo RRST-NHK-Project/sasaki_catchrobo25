@@ -34,7 +34,7 @@ private:
             bool SQUARE = msg->buttons[3];  // □ボタン
 
             if (CROSS) {
-                 std::cout << "CROSS" << std::endl;
+                 std::cout << "CROSS" << std::endl; // X
             }
             if (CIRCLE) {
                 std::cout << "CIRCLE" << std::endl;
